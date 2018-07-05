@@ -5,7 +5,7 @@ public class Account_Test {
     
     @testSetup static void setup()
     {
-        //list<Contact> clist = new list<contact>();,
+        //list<Contact> clist = new list<contact>();x
         //clist = [SELECT Id, LastName, FirstName, Name, OtherStreet, OtherCity, OtherState FROM Contact];
         // integer n = clist.size();
         Account a = new Account(Name='yoyo');
