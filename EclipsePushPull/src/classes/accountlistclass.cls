@@ -4,5 +4,5 @@ public class accountlistclass {
     {
         alist=[SELECT Id, Name FROM Account];
     }
-
+//jhjhjhj
 }
